@@ -101,11 +101,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #5122d0;
+  color: #00a39d;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #9170e8;
+    color: #0afff6;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4013,7 +4013,7 @@ html {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #5122d0;
+    background-color: #00a39d;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -4049,7 +4049,7 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: #5122d0; }
+  color: #00a39d; }
 
 p {
   line-height: 26px;
@@ -4099,7 +4099,7 @@ ol {
     flex: 1 0 0; }
 
 .header {
-  color: #5122d0;
+  color: #00a39d;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -4119,7 +4119,7 @@ ol {
   position: static; }
 
 .footer {
-  background: #5122d0;
+  background: #00a39d;
   padding-top: 15px;
   padding-bottom: 15px; }
   .footer .footer-inner {
@@ -4174,7 +4174,7 @@ ol {
             height: 40px;
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
-  background: #401ba4;
+  background: #00706c;
   color: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px; }
@@ -4242,7 +4242,7 @@ ol {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #5122d0; }
+        color: #00a39d; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
@@ -4254,7 +4254,7 @@ ol {
 
 .main-menu-mobile {
   position: fixed;
-  background: #5122d0;
+  background: #00a39d;
   top: 0;
   left: 0;
   width: 100%;
@@ -4331,7 +4331,7 @@ ol {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #5122d0; }
+    background: #00a39d; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -4345,7 +4345,7 @@ ol {
   height: 40px;
   line-height: 40px;
   padding: 0 14px;
-  background: #5122d0;
+  background: #00a39d;
   border-radius: 4px;
   font-size: 14px;
   font-weight: normal;
@@ -4357,7 +4357,7 @@ ol {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #6f44e1;
+    background-color: #00d6ce;
     transform: translateY(-1px);
     text-decoration: none; }
 
@@ -4592,13 +4592,13 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #5122d0, #f88379); }
+  background-image: linear-gradient(to right, #00a39d, #f88379); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #5122d0, #f88379); }
+  background-image: linear-gradient(to bottom, #00a39d, #f88379); }
 
 .strip-primary {
-  background-color: #5122d0; }
+  background-color: #00a39d; }
 
 .strip-secondary {
   background-color: #f88379; }

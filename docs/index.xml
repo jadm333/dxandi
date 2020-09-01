@@ -140,7 +140,17 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     </item>
     
     <item>
-      <title>About</title>
+      <title>Contacto</title>
+      <link>https://jadm333.github.io/dxandi/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://jadm333.github.io/dxandi/contact/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Saturday Closed    </description>
+    </item>
+    
+    <item>
+      <title>Sobre Nosotros</title>
       <link>https://jadm333.github.io/dxandi/about/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
@@ -151,13 +161,12 @@ Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cu
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://jadm333.github.io/dxandi/contact/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <title>Blog</title>
+      <link>https://jadm333.github.io/dxandi/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jadm333.github.io/dxandi/contact/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Saturday Closed    </description>
+      <guid>https://jadm333.github.io/dxandi/blog/</guid>
+      <description>Proximamente </description>
     </item>
     
   </channel>

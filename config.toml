@@ -16,32 +16,32 @@ publishDir = "docs"
   [params.logo]
     mobile = "images/logo-mobile.svg"
     desktop = "images/logo_serif.svg"
-    desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    desktop_height = "60px"
+    alt = "Dxandi"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "Dxandi"
+    meta_og_title = "Dxandi"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_url = "pending"
+    meta_og_image = "https://jadm333.github.io/dxandi/"
+    meta_og_description = "Dxandi"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@peps333"
+    meta_twitter_creator = "@peps333"
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'Theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Servicios"
     url = "/services/"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
+      name = "Equipo"
       url = "/team/"
       weight = 2
 
@@ -52,6 +52,6 @@ publishDir = "docs"
       weight = 1
 
   [[menu.footer]]
-    name = "Contact"
+    name = "Contacto"
     url = "/contact/"
       weight = 2
