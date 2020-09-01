@@ -14,8 +14,8 @@ publishDir = "docs"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/logo.svg"
-    desktop = "images/logo.svg"
+    mobile = "images/logo-mobile.svg"
+    desktop = "images/logo_serif.svg"
     desktop_height = "36px"
     alt = "Serif - A Hugo Business Theme"
 
