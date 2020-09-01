@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://jadm333.github.io/dxandi/"
 languageCode = "es-mx"
 title = "Dxandi"
 themesDir = "themes"
