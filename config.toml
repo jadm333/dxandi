@@ -15,7 +15,7 @@ publishDir = "docs"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
-    desktop = "images/logo_serif.svg"
+    desktop = "images/logo.svg"
     desktop_height = "60px"
     alt = "Dxandi"
 
