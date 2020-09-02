@@ -5,45 +5,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2043.1235"
+   width="2844.4495"
    height="627.17194"
-   viewBox="0 0 540.57645 165.93923"
+   viewBox="0 0 752.59394 165.93923"
    version="1.1"
-   id="svg8"
-   inkscape:version="1.0 (b51213c273, 2020-08-10)"
-   sodipodi:docname="logo.svg">
+   id="svg8">
   <defs
      id="defs2">
     <style
        id="style268">.cls-1{opacity:0.3;}.cls-2{fill:#9acf87;}.cls-3{fill:#bcdda4;}.cls-4{fill:#e3e985;}.cls-5{fill:#00a39d;}</style>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="406.83624"
-     inkscape:cy="561.04572"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1015"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     lock-margins="true"
-     fit-margin-top="20"
-     fit-margin-left="20"
-     fit-margin-right="20"
-     fit-margin-bottom="20"
-     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,8 +28,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1.8087539,0.27668121)">
     <g
@@ -114,33 +83,16 @@
     <g
        id="g350"
        transform="matrix(3.1319741,0,0,3.1319741,106.71711,-547.46374)">
-      <path
-         d="m 20.270725,180.89167 h -0.402167 v 41.9735 h 0.396875 c 11.821584,0 21.809604,-9.60966 21.809604,-20.98675 0,-11.37708 -9.982729,-20.98675 -21.804312,-20.98675 z m 2.161646,39.30915 v -36.65008 c 9.617604,1.05833 17.089437,9.02758 17.089437,18.32768 0,9.30011 -7.482416,17.26406 -17.089437,18.3224 z"
-         id="path292"
-         style="stroke-width:0.264583" />
-      <polygon
-         points="342.36,748.43 332.07,748.43 310.02,812.68 287.97,748.43 277.69,748.43 304.88,827.75 277.69,907.07 287.97,907.07 310.02,842.82 332.07,907.07 342.36,907.07 315.17,827.75 "
-         id="polygon294"
-         transform="matrix(0.26458333,0,0,0.26458333,-29.343941,-17.130429)" />
-      <path
-         d="m 73.449329,180.01061 c -4.74398,0 -7.807855,3.6195 -7.807855,9.23396 v 19.78025 h -2.698749 l 1.706562,2.55852 h 0.992187 v 11.29506 h 2.558521 v -11.30829 h 10.501313 v 11.29506 h 2.550583 v -33.6206 c 0,-5.61446 -3.061229,-9.23396 -7.802562,-9.23396 z m 0,2.55852 c 3.286124,0 5.249333,2.48973 5.249333,6.66221 v 19.78025 H 68.197349 v -19.76702 c 0,-4.18571 1.963209,-6.67544 5.25198,-6.67544 z"
-         id="path296"
-         style="stroke-width:0.264583" />
-      <polygon
-         points="436.36,748.43 436.59,907.07 446.26,907.07 446.05,778.21 490.82,907.07 500.06,907.07 499.84,748.43 490.17,748.43 490.38,877.3 445.6,748.43 "
-         id="polygon298"
-         transform="matrix(0.26458333,0,0,0.26458333,-29.343941,-17.130429)" />
-      <path
-         d="m 108.21293,180.89167 h -0.39687 v 41.9735 h 0.39687 c 11.82159,0 21.80961,-9.60966 21.80961,-20.98675 0,-11.37708 -9.98802,-20.98675 -21.80961,-20.98675 z m 2.16165,39.30915 v -36.65008 c 9.6176,1.05833 17.08944,9.02758 17.08944,18.32768 0,9.30011 -7.47184,17.26406 -17.08944,18.3224 z"
-         id="path300"
-         style="stroke-width:0.264583" />
-      <rect
-         x="133.70024"
-         y="180.89168"
-         width="2.5585208"
-         height="41.970856"
-         id="rect302"
-         style="stroke-width:0.264583" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:56.5878px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41469"
+         x="15.89257"
+         y="222.62221"
+         id="text28"><tspan
+           id="tspan26"
+           x="15.89257"
+           y="222.62221"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold';stroke-width:1.41469">Dxandi</tspan></text>
     </g>
   </g>
 </svg>
