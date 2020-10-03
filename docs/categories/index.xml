@@ -5,10 +5,6 @@
     <link>https://jadm333.github.io/dxandi/categories/</link>
     <description>Recent content in Categories on Dxandi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-mx</language>
-    
-	<atom:link href="https://jadm333.github.io/dxandi/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>es-mx</language><atom:link href="https://jadm333.github.io/dxandi/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
