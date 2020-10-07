@@ -31,7 +31,7 @@ publishDir = "docs"
     meta_twitter_creator = "@peps333"
 
   [params.footer]
-    copyright_text = 'Theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'Powered by <a class="zerostatic" href="https://github.com/zerostaticthemes/hugo-serif-theme">Hugo Serif</a> theme for <a href="https://gohugo.io/">Hugo</a>.'
 
 [menu]
   # Main Menu

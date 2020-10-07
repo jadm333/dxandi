@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Manejo personalizado",
+    "description": "Nuestro equipo ofrece un trato siempre personalizado y con alta disponibilidad para brindar soluciones hechas a la medida.",
     "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Grupo de trabajo capacitado",
+    "description": "Contamos con el respaldo de investigadores y profesionales altamente especializados en las áreas de Economía de la Salud, Bioestadística, Métodos de Investigación en Salud, y Políticas Públicas.",
+    "image": "images/features/noun_academic_2515481.svg"
+  },
+  {
+    "title": "Innovación en investigación y servicios",
+    "description": "Nos mantenemos a la vanguardia en los métodos y procesos más innovadores en las áreas de conocimiento en las que trabajamos. ",
+    "image": "images/features/noun_The Process_1885341.svg"
   }
 ]

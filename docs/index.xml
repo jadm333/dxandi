@@ -18,12 +18,23 @@ Actualmente labora en el Centro de Investigación en Sistemas de Salud del INSP.
     </item>
     
     <item>
-      <title>Mariana Molina Jaimes</title>
-      <link>https://jadm333.github.io/dxandi/team/jp_diaz/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <title>Bioestadística</title>
+      <link>https://jadm333.github.io/dxandi/services/biostatistic/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://jadm333.github.io/dxandi/team/jp_diaz/</guid>
-      <description>Actuario por la Facultad de Ciencias de la UNAM. Actualmente estudia un doctorado en la Universidad de Toronto, donde realizó investigaciones en modelos de clasificación en pacientes con cáncer de próstata. Asimismo es Bioestadístico en la unidad de Lupus del hospital Toronto Western. En años recientes se ha especializado en estadística Bayesiana aplicada a salud, específicamente en su uso en el aprendizaje de máquina (machine learning) desde un punto de vista probabilístico.</description>
+      <guid>https://jadm333.github.io/dxandi/services/biostatistic/</guid>
+      <description>En términos generales, la Bioestadística busca resumir, explorar y realizar inferencias a partir de los datos provenientes de diferentes ramas de las ciencias de la vida (medicina, ecología,biología, etc.)
+Servicios  Estadística bayesiana en el contexto de:  Evaluación de tecnologías sanitarias. Modelos jerárquicos para meta-análisis y meta-análisis en red. Aprendizaje de máquina con métodos probabilísticos.   Modelos lineales y no lineales utilizando datos de la vida real (Real-World Evidence)  </description>
+    </item>
+    
+    <item>
+      <title>Ciencias de Datos en Salud</title>
+      <link>https://jadm333.github.io/dxandi/services/health_ds/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://jadm333.github.io/dxandi/services/health_ds/</guid>
+      <description>Debido a que en años recientes la cantidad de datos disponibles para analizar ha crecido exponencialmente, y a su vez, las computadoras se han vuelto más asequibles, las ciencias de la computación y la estadística (por sólo nombrar algunas disciplinas) se han vuelto indispensables en el análisis de datos.
+Servicios Desde diferentes técnicas de aprendizaje supervisado y no supervisado, contamos con un equipo que se adapta a las necesidades del cliente, ya que manejamos diversas tecnologías.</description>
     </item>
     
     <item>
@@ -36,23 +47,21 @@ Actualmente labora en el Centro de Investigación en Sistemas de Salud del INSP.
     </item>
     
     <item>
-      <title>Bioestadística</title>
-      <link>https://jadm333.github.io/dxandi/services/biostatistic/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <title>Juan Pablo Díaz Martínez</title>
+      <link>https://jadm333.github.io/dxandi/team/jp_diaz/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://jadm333.github.io/dxandi/services/biostatistic/</guid>
-      <description>En términos generales, la Bioestadística busca resumir, explorar y realizar inferencias a partir de los datos provenientes de diferentes ramas de las ciencias de la vida (medicina, ecología,biología, etc.)
-Servicios  Estadística bayesiana en el contexto de: Evaluación de tecnologías sanitarias. Modelos jerárquicos para meta-análisis y meta-análisis en red. Aprendizaje de máquina con métodos probabilísticos. Modelos lineales y no lineales utilizando datos de la vida real (Real-World Evidence)  </description>
+      <guid>https://jadm333.github.io/dxandi/team/jp_diaz/</guid>
+      <description>Actuario por la Facultad de Ciencias de la UNAM. Actualmente estudia un doctorado en la Universidad de Toronto, donde realizó investigaciones en modelos de clasificación en pacientes con cáncer de próstata. Asimismo es Bioestadístico en la unidad de Lupus del hospital Toronto Western. En años recientes se ha especializado en estadística Bayesiana aplicada a salud, específicamente en su uso en el aprendizaje de máquina (machine learning) desde un punto de vista probabilístico.</description>
     </item>
     
     <item>
-      <title>Ciencias de Datos en Salud</title>
-      <link>https://jadm333.github.io/dxandi/services/health_ds/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <title>Sobre Nosotros</title>
+      <link>https://jadm333.github.io/dxandi/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
-      <guid>https://jadm333.github.io/dxandi/services/health_ds/</guid>
-      <description>Debido a que en años recientes la cantidad de datos disponibles para analizar ha crecido exponencialmente, y a su vez, las computadoras se han vuelto más asequibles, las ciencias de la computación y la estadística (por sólo nombrar algunas disciplinas) se han vuelto indispensables en el análisis de datos.
-Servicios Desde diferentes técnicas de aprendizaje supervisado y no supervisado, contamos con un equipo que se adapta a las necesidades del cliente, ya que manejamos diversas tecnologías.</description>
+      <guid>https://jadm333.github.io/dxandi/about/</guid>
+      <description>Dxandi es una empresa joven, pero cargada de pasión y conocimiento. Creemos que existe una mejor manera de hacer las cosas en nuestro país, por esto, activamente buscamos combinar los conocimientos de la academia al contexto de la industria en México; entrelazando el rigor metodológico necesario a los requerimientos específicos de cada empresa. Somos una empresa adaptada a la demanda actual, con servicios desde evaluación de tecnología clásica, hasta modelos innovadores de ciencias de datos; todo con el objetivo de brindar el mejor servicio y ayudar a potencializar proyectos.</description>
     </item>
     
     <item>
@@ -71,19 +80,7 @@ Servicios Nuestro equipo se especializa en la realización de análisis completo
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>https://jadm333.github.io/dxandi/contact/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Saturday Closed    </description>
-    </item>
-    
-    <item>
-      <title>Sobre Nosotros</title>
-      <link>https://jadm333.github.io/dxandi/about/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>https://jadm333.github.io/dxandi/about/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description></description>
     </item>
     
     <item>

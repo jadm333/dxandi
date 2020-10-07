@@ -11,7 +11,7 @@ En términos generales, la Bioestadística busca resumir, explorar y realizar in
 ## Servicios
 
 1. Estadística bayesiana en el contexto de:
-2. Evaluación de tecnologías sanitarias.
-3. Modelos jerárquicos para meta-análisis y meta-análisis en red.
-4. Aprendizaje de máquina con métodos probabilísticos.
-5. Modelos lineales y no lineales utilizando datos de la vida real (Real-World Evidence)
+    - Evaluación de tecnologías sanitarias.
+    - Modelos jerárquicos para meta-análisis y meta-análisis en red.
+    - Aprendizaje de máquina con métodos probabilísticos.
+2. Modelos lineales y no lineales utilizando datos de la vida real (Real-World Evidence)
