@@ -9,8 +9,6 @@ draft: false
 weight: 2
 ---
 
-# Ciencias de Datos en Salud
-
 Debido a que en años recientes la cantidad de datos disponibles para analizar ha crecido exponencialmente, y a su vez, las computadoras se han vuelto más asequibles, las ciencias de la computación y la estadística (por sólo nombrar algunas disciplinas) se han vuelto indispensables en el análisis de datos.
 
 ## Servicios
