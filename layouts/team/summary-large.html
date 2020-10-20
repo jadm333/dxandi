@@ -1,0 +1,32 @@
+<div class="team team-summary team-summary-large">
+  {{ if .Params.image }}
+  <div class="team-image">
+    <img alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
+  </div>
+  {{ end }}
+  <div class="team-meta">
+    <a href="{{ .Permalink }}"><h2 class="team-name">{{ .Title }}</h2></a>
+    <p class="team-description">{{ .Params.Jobtitle }}</p>
+    <div class="social-team">
+    {{ if .Params.Linkedinurl }}
+      <a href="{{ .Params.Linkedinurl }}" target="blank"><i class="fab fa-linkedin"></i></a>
+    {{ end }}
+    {{ if .Params.Email }}
+      <a href="mailto:{{ .Params.Email }}" target="blank"><i class="fas fa-envelope"></i></a>
+    {{ end }}
+    {{ if .Params.Twitterurl }}
+      <a href="{{ .Params.Twitterurl }}" target="blank"><i class="fab fa-twitter"></i></a>
+    {{ end }}
+    {{ if .Params.Githuburl }}
+      <a href="{{ .Params.Githuburl }}" target="blank"><i class="fab fa-github"></i></a>
+    {{ end }}
+    {{ if .Params.Pubmedurl }}
+      <a href="{{ .Params.Pubmedurl }}" target="blank"><i class="ai ai-pubmed"></i></a>
+    {{ end }}
+    </div>
+  </div> 
+  <div class="team-content">
+    {{ .Content | truncate 300}}
+    <a href="{{ .Permalink }}">... Leer mas</a>
+  </div>
+</div>

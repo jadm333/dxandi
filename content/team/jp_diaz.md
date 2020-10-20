@@ -10,7 +10,7 @@ twitterurl: "https://twitter.com/juandiazmart"
 githuburl: "https://github.com/juandiazmart"
 pubmedurl: "https://pubmed.ncbi.nlm.nih.gov/?term=%28Mart%C3%ADnez+JPD%5BAuthor%5D+%29+OR+%28Diaz+Martinez+JP%5BAuthor%5D%29"
 promoted: true
-weight: 3
+weight: 2
 ---
 
 Actuario por la Facultad de Ciencias de la UNAM. Actualmente estudia un doctorado en la Universidad de Toronto, donde realizó investigaciones en modelos de clasificación en pacientes con cáncer de próstata. Asimismo es Bioestadístico en la unidad de Lupus del hospital Toronto Western.

@@ -1,8 +1,8 @@
 baseURL = "https://jadm333.github.io/dxandi/"
 languageCode = "es-mx"
 title = "Dxandi"
-themesDir = "themes"
-theme = "hugo-serif-theme"
+# themesDir = "themes"
+# theme = "hugo-serif-theme"
 publishDir = "docs"
 
 [params]
@@ -15,7 +15,7 @@ publishDir = "docs"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
-    desktop = "images/logo.svg"
+    desktop = "images/logo-mobile.svg"
     desktop_height = "60px"
     alt = "Dxandi"
 

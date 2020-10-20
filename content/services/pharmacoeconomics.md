@@ -1,10 +1,15 @@
 ---
 title: "Farmacoeconomía"
 date: 2018-11-28T15:15:34+10:00
+intro_image: "images/PCA.png"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 featured: true
 draft: false
 weight: 4
 ---
+
+# Farmacoeconomía
 
 Los recursos en las economías son escasos, por eso es necesario maximizar el uso de éstos con el fin de obtener el mayor resultado con la combinación óptima de elementos. Los análisis de costos, costo-efectividad y costo-beneficio, que combinan elementos de farmacología, epidemiología y economía, son cruciales en la toma de decisiones gubernamentales y salud pública. 
 

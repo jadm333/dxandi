@@ -1,10 +1,10 @@
 ---
 title: 'Services'
-intro_image: "images/DXANDI_IMAGE_2.png"
+intro_image: "images/egresoszonas-1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Servicios que adaptamos a tus necesidades
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Personalizamos cada servicio con el fin de satisfacer las necesidades únicas de cada empresa. Vamos más allá de los métodos clásicos y exploramos alternativas para brindarte la mejor solución. 

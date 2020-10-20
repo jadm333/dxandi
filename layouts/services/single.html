@@ -1,0 +1,33 @@
+{{ define "body_classes" }}page-services-single{{ end }}
+
+{{ define "main" }}
+  <div class="intro">
+    <div class="container">
+      <div class="row justify-content-start">
+        
+        
+        <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">{{.Content}}</div>
+
+        {{ if .Params.intro_image }}
+        <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+          <img
+            class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
+            src="{{ .Params.intro_image | relURL }}" />
+        </div>
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ $library := resources.Get "js/libs/library.js" }}
+{{ $services := resources.Get "js/pages/services.js" }}
+{{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
+{{ if .Site.IsServer }}
+  <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
+  {{ else }}
+  <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
+{{ end }}
