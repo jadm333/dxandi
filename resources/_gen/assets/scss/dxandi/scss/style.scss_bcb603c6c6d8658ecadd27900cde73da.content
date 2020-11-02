@@ -4671,6 +4671,12 @@ ol {
     .social-team a:hover {
       opacity: 0.8; }
 
+.page-about p {
+  font-size: 1.2rem;
+  font-weight: light;
+  line-height: 1.5;
+  color: #5C5A5A; }
+
 .team-summary {
   display: flex;
   flex-wrap: wrap;
