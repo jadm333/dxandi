@@ -1,12 +1,12 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/JugglerX/hugo-serif-theme",
-        "image": "images/github.svg"
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/dxandi-consultor%C3%ADa-4408991b9/",
+        "image": "images/linkedin-dark.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/DxandiC",
+        "link": "https://twitter.com/BioDxandi",
         "image": "images/twitter.svg"
     }
 ]
