@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Dxandi</title>
-    <link>https://jadm333.github.io/dxandi/services/</link>
+    <link>https://biodxandi.com/services/</link>
     <description>Recent content in Services on Dxandi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://jadm333.github.io/dxandi/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://biodxandi.com/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bioestadística</title>
-      <link>https://jadm333.github.io/dxandi/services/biostatistic/</link>
+      <link>https://biodxandi.com/services/biostatistic/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://jadm333.github.io/dxandi/services/biostatistic/</guid>
+      <guid>https://biodxandi.com/services/biostatistic/</guid>
       <description>En términos generales, la Bioestadística busca resumir, explorar y realizar inferencias a partir de los datos provenientes de diferentes ramas de las ciencias de la vida (medicina, ecología,biología, etc.)
 Servicios 1.- Estadística bayesiana en el contexto de:
 a) Evaluación de tecnologías sanitarias.
@@ -23,20 +23,20 @@ c) Aprendizaje de máquina con métodos probabilísticos.
     
     <item>
       <title>Ciencias de Datos en Salud</title>
-      <link>https://jadm333.github.io/dxandi/services/health_ds/</link>
+      <link>https://biodxandi.com/services/health_ds/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://jadm333.github.io/dxandi/services/health_ds/</guid>
+      <guid>https://biodxandi.com/services/health_ds/</guid>
       <description>Debido a que en años recientes la cantidad de datos disponibles para analizar ha crecido exponencialmente, y a su vez, las computadoras se han vuelto más asequibles, las ciencias de la computación y la estadística (por sólo nombrar algunas disciplinas) se han vuelto indispensables en el análisis de datos.
 Servicios Desde diferentes técnicas de aprendizaje supervisado y no supervisado, contamos con un equipo que se adapta a las necesidades del cliente, ya que manejamos diversas tecnologías.</description>
     </item>
     
     <item>
       <title>Farmacoeconomía</title>
-      <link>https://jadm333.github.io/dxandi/services/pharmacoeconomics/</link>
+      <link>https://biodxandi.com/services/pharmacoeconomics/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://jadm333.github.io/dxandi/services/pharmacoeconomics/</guid>
+      <guid>https://biodxandi.com/services/pharmacoeconomics/</guid>
       <description>Los recursos en las economías son escasos, por eso es necesario maximizar el uso de éstos con el fin de obtener el mayor resultado con la combinación óptima de elementos. Los análisis de costos, costo-efectividad y costo-beneficio, que combinan elementos de farmacología, epidemiología y economía, son cruciales en la toma de decisiones gubernamentales y salud pública.
 Servicios Nuestro equipo se especializa en la realización de análisis completo de costos para sector público y privado:</description>
     </item>
