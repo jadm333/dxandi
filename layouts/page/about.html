@@ -6,6 +6,9 @@
     <div class="col-12">
       <div class="page-about">
         <h1 class="title">{{.Title}}</h1>
+        <img
+        class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}"
+        src="{{ .Params.intro_image | relURL }}" />
         <div class="content mt-4">{{.Content}}</div>
       </div>
     </div>
