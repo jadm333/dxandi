@@ -3,7 +3,7 @@ title: "Mariana Molina Jaimes"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/mariana.png"
-jobtitle: "Socia"
+jobtitle: "Consultora"
 linkedinurl: "https://www.linkedin.com/in/mariana-molina-jaimes-1617a067/"
 pubmedurl: "https://pubmed.ncbi.nlm.nih.gov/?term=Molina+Mariana&filter=datesearch.y_10"
 email: "molinajaimes@biodxandi.com"

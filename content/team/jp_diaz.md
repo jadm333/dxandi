@@ -3,7 +3,7 @@ title: "Juan Pablo Díaz Martínez"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/jp.png"
-jobtitle: "Socio"
+jobtitle: "Consultor"
 linkedinurl: "https://www.linkedin.com/in/juan-pablo-diaz-martinez-7b212b14a"
 email: "juandiazmart@biodxandi.com"
 twitterurl: "https://twitter.com/juandiazmart"

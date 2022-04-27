@@ -1,72 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://biodxandi.com/team/mariana_molina/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/services/biostatistic/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/services/health_ds/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/team/jp_diaz/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/team/liliane_martinez/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/services/pharmacoeconomics/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/services/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/team/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/404/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodxandi.com/tags/</loc>
   </url>
-  
 </urlset>
